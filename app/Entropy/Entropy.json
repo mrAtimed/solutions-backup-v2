@@ -1,0 +1,75 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "DRUGI": 11,
+    "GALERIJA": 4,
+    "galleryTemplate1": 5,
+    "GUMB": 12,
+    "IKONA": 9,
+    "INDEX": 3,
+    "NASLOV": 7,
+    "PODNASLOV": 8,
+    "SLIKA": 6
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/16/2023 09:14:29",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 4,
+    "gallery": 0,
+    "icon": 2,
+    "image": 1,
+    "label": 3
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "DRUGI": {},
+    "GALERIJA": {},
+    "galleryTemplate1": {},
+    "GUMB": {},
+    "IKONA": {},
+    "INDEX": {},
+    "NASLOV": {},
+    "PODNASLOV": {},
+    "SLIKA": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "DRUGI": 0,
+    "GALERIJA": 0,
+    "galleryTemplate1": 1,
+    "GUMB": 6,
+    "IKONA": 3,
+    "INDEX": 0,
+    "NASLOV": 4,
+    "PODNASLOV": 5,
+    "SLIKA": 2
+  },
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0145225,
+    "ControlCount": {},
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}

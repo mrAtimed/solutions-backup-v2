@@ -1,0 +1,11 @@
+DRUGI As screen:
+
+    GUMB As button:
+        Height: =70
+        Size: =24
+        Text: ="BLA"
+        Width: =280
+        X: =196
+        Y: =144
+        ZIndex: =1
+
