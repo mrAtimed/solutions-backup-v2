@@ -59,7 +59,7 @@ INDEX As screen:
             ZIndex: =4
 
     GUMB_1 As button:
-        Height: =70
+        Height: =35
         OnSelect: =Navigate(USPJEH)
         Size: =24
         Text: ="BLA"
