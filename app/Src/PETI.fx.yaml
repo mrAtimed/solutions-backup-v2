@@ -1,6 +1,6 @@
 Peti As screen:
 
-    GUMB As button:
+    GUMB2 As button:
         Height: =70
         OnSelect: =Navigate(USPJEH)
         Size: =24
