@@ -5,7 +5,7 @@ INDEX As screen:
         Layout: =Layout.Vertical
         TemplatePadding: =0
         TemplateSize: =Min(160, Self.Height - 60)
-        Y: =40
+        Y: =561
         ZIndex: =1
 
         SLIKA As image:
@@ -57,4 +57,14 @@ INDEX As screen:
             X: =Parent.TemplateWidth - Self.Width - 5
             Y: =4
             ZIndex: =4
+
+    GUMB_1 As button:
+        Height: =70
+        OnSelect: =Navigate(USPJEH)
+        Size: =24
+        Text: ="BLA"
+        Width: =280
+        X: =196
+        Y: =144
+        ZIndex: =2
 

@@ -3,19 +3,24 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "DRUGI": 11,
-    "GALERIJA": 4,
-    "galleryTemplate1": 5,
-    "GUMB": 12,
+    "DRUGI": 3,
+    "GALERIJA": 6,
+    "galleryTemplate1": 7,
+    "GUMB": 4,
+    "GUMB_1": 16,
+    "iconCheck1": 14,
+    "iconCircle1": 13,
     "IKONA": 9,
-    "INDEX": 3,
-    "NASLOV": 7,
-    "PODNASLOV": 8,
-    "SLIKA": 6
+    "INDEX": 5,
+    "LblSuccessMsg1": 15,
+    "NASLOV": 10,
+    "PODNASLOV": 11,
+    "SLIKA": 8,
+    "USPJEH": 12
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/16/2023 09:14:29",
+  "HeaderLastSavedDateTimeUTC": "02/16/2023 09:24:52",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -30,11 +35,12 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 4,
-    "gallery": 0,
-    "icon": 2,
-    "image": 1,
-    "label": 3
+    "button": 0,
+    "circle": 5,
+    "gallery": 1,
+    "icon": 3,
+    "image": 2,
+    "label": 4
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -42,11 +48,16 @@
     "GALERIJA": {},
     "galleryTemplate1": {},
     "GUMB": {},
+    "GUMB_1": {},
+    "iconCheck1": {},
+    "iconCircle1": {},
     "IKONA": {},
     "INDEX": {},
+    "LblSuccessMsg1": {},
     "NASLOV": {},
     "PODNASLOV": {},
-    "SLIKA": {}
+    "SLIKA": {},
+    "USPJEH": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
@@ -55,11 +66,16 @@
     "GALERIJA": 0,
     "galleryTemplate1": 1,
     "GUMB": 6,
+    "GUMB_1": 6,
+    "iconCheck1": 0,
+    "iconCircle1": 0,
     "IKONA": 3,
     "INDEX": 0,
+    "LblSuccessMsg1": 0,
     "NASLOV": 4,
     "PODNASLOV": 5,
-    "SLIKA": 2
+    "SLIKA": 2,
+    "USPJEH": 0
   },
   "ResourcesJsonIndices": {
     "Image-SampleImage": 0
@@ -67,8 +83,17 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0145225,
-    "ControlCount": {},
+    "AnalysisLoadTime": 0.0882288,
+    "ControlCount": {
+      "button": 2,
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "image": 1,
+      "label": 2,
+      "screen": 2
+    },
+    "DeserializationLoadTime": 3.8560473,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true

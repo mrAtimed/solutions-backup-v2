@@ -2,6 +2,7 @@ DRUGI As screen:
 
     GUMB As button:
         Height: =70
+        OnSelect: =Navigate(USPJEH)
         Size: =24
         Text: ="BLA"
         Width: =280
