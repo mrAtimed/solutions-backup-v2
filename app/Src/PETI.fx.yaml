@@ -1,0 +1,12 @@
+Peti As screen:
+
+    GUMB As button:
+        Height: =70
+        OnSelect: =Navigate(USPJEH)
+        Size: =24
+        Text: ="PETI"
+        Width: =280
+        X: =196
+        Y: =144
+        ZIndex: =1
+
