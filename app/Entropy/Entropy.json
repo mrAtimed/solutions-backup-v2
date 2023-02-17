@@ -3,26 +3,26 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
-    "DRUGI": 9,
-    "GALERIJA": 12,
-    "galleryTemplate1": 13,
-    "GUMB": 10,
-    "GUMB_1": 18,
-    "GUMB2": 8,
-    "iconCheck1": 5,
-    "iconCircle1": 4,
-    "IKONA": 15,
-    "INDEX": 11,
-    "LblSuccessMsg1": 6,
-    "NASLOV": 16,
-    "Peti": 7,
-    "PODNASLOV": 17,
-    "SLIKA": 14,
-    "USPJEH": 3
+    "DRUGI": 17,
+    "GALERIJA": 4,
+    "galleryTemplate1": 5,
+    "GUMB": 18,
+    "GUMB_1": 10,
+    "GUMB2": 16,
+    "iconCheck1": 13,
+    "iconCircle1": 12,
+    "IKONA": 7,
+    "INDEX": 3,
+    "LblSuccessMsg1": 14,
+    "NASLOV": 8,
+    "Peti": 15,
+    "PODNASLOV": 9,
+    "SLIKA": 6,
+    "USPJEH": 11
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/17/2023 14:22:30",
+  "HeaderLastSavedDateTimeUTC": "02/17/2023 14:23:46",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -37,12 +37,12 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 3,
-    "circle": 0,
-    "gallery": 4,
-    "icon": 1,
-    "image": 5,
-    "label": 2
+    "button": 4,
+    "circle": 5,
+    "gallery": 0,
+    "icon": 2,
+    "image": 1,
+    "label": 3
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -89,7 +89,7 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1161484,
+    "AnalysisLoadTime": 0.1232703,
     "ControlCount": {
       "button": 3,
       "circle": 1,
@@ -100,7 +100,7 @@
       "label": 3,
       "screen": 4
     },
-    "DeserializationLoadTime": 2.1599589,
+    "DeserializationLoadTime": 1.4321955,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
